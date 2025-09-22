@@ -401,9 +401,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 679481600277344169, guid: e55f08c43d54cac5abce987901a797a9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -477,7 +477,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.2708334, y: 1.0625}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -500,14 +500,6 @@ MonoBehaviour:
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   groundCheck: {fileID: 8120502253668576859}
   hurtBox: {fileID: 1290659137907820666}
-  statController:
-    baseStamina: 1200
-    staminaUpgradeValue: 0.5
-    usePassiveDrain: 1
-    passiveDrain: 1
-    walkDrain: 4
-    jumpDrain: 180
-    staminaLevel: 0
   horizontalSpeed: 5
   activeAcceleration: 15
   passiveDeceleration: 5
