@@ -498,6 +498,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   groundCheck: {fileID: 207951792}
+  statController:
+    baseStamina: 1200
+    staminaUpgradeValue: 0.5
+    usePassiveDrain: 1
+    passiveDrain: 1
+    walkDrain: 4
+    jumpDrain: 180
+    staminaLevel: 0
   horizontalSpeed: 5
   activeAcceleration: 15
   passiveDeceleration: 5
