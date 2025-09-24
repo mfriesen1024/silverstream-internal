@@ -503,7 +503,7 @@ MonoBehaviour:
   horizontalSpeed: 5
   activeAcceleration: 15
   passiveDeceleration: 5
-  jumpAcceleration: 45
-  jumpTicks: 6
+  jumpAcceleration: 60
+  jumpTicks: 9
   coyoteTicks: 9
   SpawnPosition: {x: 0, y: 0, z: 0}
