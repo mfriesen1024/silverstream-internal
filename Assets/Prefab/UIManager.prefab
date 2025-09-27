@@ -4022,21 +4022,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8368bd5088964e63e81399545f24629c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  input: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   ProgressBar: {fileID: 8686658040674072628}
   ProgressText: {fileID: 140290590941841898}
   MaxValue: 100
   StaminaBar: {fileID: 6338531330285577202}
   play: {fileID: 488779270199299712}
+  settingsMM: {fileID: 1274326418279862333}
+  quit: {fileID: 1097738247112172684}
+  settingsMMReturn: {fileID: 7622010872280346566}
+  settingsPMReturn: {fileID: 5253792551809304724}
   resume: {fileID: 443443900523021598}
+  settingsPM: {fileID: 4858270741658301758}
   pauseReturn: {fileID: 8500488259860714369}
   resultsContinue: {fileID: 2670450391144613397}
   resultsQuit: {fileID: 5032420745934599996}
   upgradeContinue: {fileID: 6994402171308861922}
+  winExit: {fileID: 9133549388850093843}
   mainMenu: {fileID: 6923037573432036312}
   hud: {fileID: 7501434609776023111}
+  settingsMenuMM: {fileID: 6486474197532884260}
+  settingsMenuPM: {fileID: 2992823506336111252}
   pauseMenu: {fileID: 1770168011923521453}
   resultsMenu: {fileID: 3035638613574317016}
   upgradeMenu: {fileID: 2136960663373773678}
+  winScreen: {fileID: 4807078480976913632}
 --- !u!1 &4749323633746058727
 GameObject:
   m_ObjectHideFlags: 0
