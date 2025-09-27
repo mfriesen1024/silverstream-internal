@@ -57,5 +57,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6871e8a4ed38401a8dca5a961af48b5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  purr: {fileID: 0}
+  purr: {fileID: 8300000, guid: fae52f96b591ef187b7bc508f5b3ac07, type: 3}
   sadMeow: {fileID: 8300000, guid: 6223377b3aaa55de48754e01095724f6, type: 3}
