@@ -404,6 +404,7 @@ GameObject:
   - component: {fileID: 5698671884876273151}
   - component: {fileID: 2959368385028926061}
   - component: {fileID: 7130647132118125762}
+  - component: {fileID: 1386480152087814891}
   m_Layer: 0
   m_Name: Terrain
   m_TagString: Untagged
@@ -6626,6 +6627,18 @@ CompositeCollider2D:
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0
   m_CompositeGameObject: {fileID: 2943457742582934310}
+--- !u!114 &1386480152087814891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2943457742582934310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b7b1cdef46047b8a5c6079bcfa7fba2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3201789374898267653
 GameObject:
   m_ObjectHideFlags: 0
