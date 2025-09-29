@@ -506,5 +506,5 @@ MonoBehaviour:
   jumpAcceleration: 60
   postJumpGravityScale: 2
   jumpTicks: 9
-  coyoteTicks: 9
+  coyoteTicks: 15
   SpawnPosition: {x: 0, y: 0, z: 0}
