@@ -148,7 +148,7 @@ GameObject:
   - component: {fileID: 4904150401645135815}
   - component: {fileID: 8392308951512369473}
   m_Layer: 5
-  m_Name: CurrencyText
+  m_Name: UpgradesCurrencyText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -948,6 +948,7 @@ GameObject:
   - component: {fileID: 8583940434954867290}
   - component: {fileID: 149179270774299106}
   - component: {fileID: 6326826821443610072}
+  - component: {fileID: 5881433831950253504}
   m_Layer: 5
   m_Name: UpgradePurchase
   m_TagString: Untagged
@@ -1057,6 +1058,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &5881433831950253504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384974632400739747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ecc813a4f33c21ab83d69781f23a21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1440746119230850236
 GameObject:
   m_ObjectHideFlags: 0
@@ -2203,6 +2216,7 @@ GameObject:
   - component: {fileID: 929222431373022757}
   - component: {fileID: 860158941606806474}
   - component: {fileID: 2453674492562876649}
+  - component: {fileID: 5080487453930147828}
   m_Layer: 5
   m_Name: UpgradePurchase
   m_TagString: Untagged
@@ -2312,6 +2326,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &5080487453930147828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2289403904242980670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ecc813a4f33c21ab83d69781f23a21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2347529406723690714
 GameObject:
   m_ObjectHideFlags: 0
@@ -3131,6 +3157,7 @@ GameObject:
   - component: {fileID: 7257179377790417783}
   - component: {fileID: 5457920801259698802}
   - component: {fileID: 8852491424143160675}
+  - component: {fileID: 9019092924109595991}
   m_Layer: 5
   m_Name: UpgradePurchase
   m_TagString: Untagged
@@ -3240,6 +3267,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &9019092924109595991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3367914719109339923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ecc813a4f33c21ab83d69781f23a21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3491585962807453566
 GameObject:
   m_ObjectHideFlags: 0
@@ -4447,11 +4486,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   input: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
-  progressBar: {fileID: 0}
-  progressText: {fileID: 0}
+  progressBar: {fileID: 8686658040674072628}
+  progressText: {fileID: 140290590941841898}
   maxValue: 100
-  staminaBar: {fileID: 0}
-  treatsText: {fileID: 0}
+  staminaBar: {fileID: 6338531330285577202}
+  treatsText: {fileID: 9220739481678808573}
   play: {fileID: 488779270199299712}
   settingsMM: {fileID: 1274326418279862333}
   quit: {fileID: 1097738247112172684}
@@ -4463,10 +4502,10 @@ MonoBehaviour:
   resultsContinue: {fileID: 2670450391144613397}
   resultsQuit: {fileID: 5032420745934599996}
   upgradeContinue: {fileID: 6994402171308861922}
-  upgradeBuy1: {fileID: 0}
-  upgradeBuy2: {fileID: 0}
-  upgradeBuy3: {fileID: 0}
-  upgradeCurrencyCounter: {fileID: 0}
+  upgradeBuy1: {fileID: 5881433831950253504}
+  upgradeBuy2: {fileID: 9019092924109595991}
+  upgradeBuy3: {fileID: 5080487453930147828}
+  upgradeCurrencyCounter: {fileID: 8392308951512369473}
   winExit: {fileID: 9133549388850093843}
   mainMenu: {fileID: 6923037573432036312}
   hud: {fileID: 7501434609776023111}
