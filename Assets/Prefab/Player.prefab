@@ -502,8 +502,8 @@ MonoBehaviour:
   hurtBox: {fileID: 1290659137907820666}
   horizontalSpeed: 5
   activeAcceleration: 15
-  dashHorizontalAcceleration: 45
-  dashVerticalAcceleration: 45
+  dashHorizontalAcceleration: 30
+  dashVerticalAcceleration: 30
   dashDownMultiplier: 1
   passiveDeceleration: 5
   jumpAcceleration: 60
