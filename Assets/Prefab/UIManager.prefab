@@ -1998,7 +1998,6 @@ RectTransform:
   m_Children:
   - {fileID: 8005750138272905110}
   - {fileID: 8510068525208200710}
-  - {fileID: 750962670025053168}
   m_Father: {fileID: 121530769244108619}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -6803,7 +6802,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a4b9723c3c4b985aeb8a248a7965169e, type: 3}
+  m_Sprite: {fileID: -8161154217084563648, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
