@@ -870,7 +870,7 @@ GameObject:
   - component: {fileID: 3040728115818563599}
   - component: {fileID: 8109035903764633818}
   m_Layer: 5
-  m_Name: UpgradeModule (1)
+  m_Name: UpgradeModule2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 6326826821443610072}
   - component: {fileID: 5881433831950253504}
   m_Layer: 5
-  m_Name: UpgradePurchase
+  m_Name: UpgradePurchase1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2218,7 +2218,7 @@ GameObject:
   - component: {fileID: 2453674492562876649}
   - component: {fileID: 5080487453930147828}
   m_Layer: 5
-  m_Name: UpgradePurchase
+  m_Name: UpgradePurchase3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3061,7 +3061,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 7139803205783264370, guid: ef0d5dbff3ab6cd3dac864e965f637a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3159,7 +3159,7 @@ GameObject:
   - component: {fileID: 8852491424143160675}
   - component: {fileID: 9019092924109595991}
   m_Layer: 5
-  m_Name: UpgradePurchase
+  m_Name: UpgradePurchase2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4271,7 +4271,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 4327132531658263914, guid: ef0d5dbff3ab6cd3dac864e965f637a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5360,7 +5360,7 @@ GameObject:
   - component: {fileID: 8464964714021032543}
   - component: {fileID: 8471197593294790367}
   m_Layer: 5
-  m_Name: UpgradeModule (2)
+  m_Name: UpgradeModule3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6880,7 +6880,7 @@ GameObject:
   - component: {fileID: 7557814263946428981}
   - component: {fileID: 5707792545764528938}
   m_Layer: 5
-  m_Name: UpgradeModule
+  m_Name: UpgradeModule1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7147,7 +7147,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -3080432445336332918, guid: ef0d5dbff3ab6cd3dac864e965f637a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
