@@ -502,9 +502,14 @@ MonoBehaviour:
   hurtBox: {fileID: 1290659137907820666}
   horizontalSpeed: 5
   activeAcceleration: 15
+  dashHorizontalAcceleration: 30
+  dashVerticalAcceleration: 40
+  dashDownMultiplier: 1
   passiveDeceleration: 5
   jumpAcceleration: 60
   postJumpGravityScale: 2
   jumpTicks: 9
-  coyoteTicks: 15
-  SpawnPosition: {x: 0, y: 0, z: 0}
+  coyoteTicks: 5
+  dashTicks: 15
+  dashCooldownTicks: 10
+  spawnPosition: {x: 0, y: 0, z: 0}
