@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,15 +128,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_SpriteSheet_0
+      name: PlayerWalkLeft
       rect:
         serializedVersion: 2
-        x: 47
-        y: 823
-        width: 158
-        height: 133
+        x: 0
+        y: 824
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,15 +150,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_SpriteSheet_1
+      name: PlayerWalkRight
       rect:
         serializedVersion: 2
-        x: 307
-        y: 823
-        width: 158
-        height: 133
+        x: 256
+        y: 824
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -172,15 +172,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_SpriteSheet_2
+      name: PlayerDashLeft
       rect:
         serializedVersion: 2
-        x: 530
-        y: 831
-        width: 220
-        height: 121
+        x: 512
+        y: 824
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -194,15 +194,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_SpriteSheet_3
+      name: PlayerDashRight
       rect:
         serializedVersion: 2
-        x: 786
-        y: 831
-        width: 220
-        height: 121
+        x: 768
+        y: 824
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -216,15 +216,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_SpriteSheet_4
+      name: PlayerWalljumpLeft
       rect:
         serializedVersion: 2
-        x: 65
-        y: 579
-        width: 125
-        height: 188
+        x: 0
+        y: 568
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -238,15 +238,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_SpriteSheet_5
+      name: PlayerWalljumpRight
       rect:
         serializedVersion: 2
-        x: 321
-        y: 579
-        width: 125
-        height: 188
+        x: 256
+        y: 568
+        width: 256
+        height: 256
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 692eaaeba0b4eb1f489b081d1a6f13e6
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_SpriteSheet_0: -2720565861231176639
-      Player_SpriteSheet_1: -4090978185585803396
-      Player_SpriteSheet_2: 5437668001718726468
-      Player_SpriteSheet_3: 3503968090911831279
-      Player_SpriteSheet_4: -3720469745355059708
-      Player_SpriteSheet_5: -342488978388223297
+      PlayerDashLeft: 5437668001718726468
+      PlayerDashRight: 3503968090911831279
+      PlayerWalkLeft: -2720565861231176639
+      PlayerWalkRight: -4090978185585803396
+      PlayerWalljumpLeft: -3720469745355059708
+      PlayerWalljumpRight: -342488978388223297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
