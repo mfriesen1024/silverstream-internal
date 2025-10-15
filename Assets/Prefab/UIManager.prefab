@@ -5039,6 +5039,7 @@ MonoBehaviour:
   settingsMM: {fileID: 1274326418279862333}
   quit: {fileID: 1097738247112172684}
   settingsMMReturn: {fileID: 7622010872280346566}
+  settingsMMWipeSave: {fileID: 1443248735864474049}
   settingsPMReturn: {fileID: 5253792551809304724}
   resume: {fileID: 443443900523021598}
   settingsPM: {fileID: 4858270741658301758}
