@@ -22,7 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: DashParticle
   m_Shader: {fileID: 4800000, guid: 0406db5a14f94604a8c57ccfbc9f3b46, type: 3}
-  m_Parent: {fileID: 2100000, guid: 020455bcca4aeacfc88046686fad457b, type: 2}
+  m_Parent: {fileID: 2100000, guid: 0bcba1f1a7f54dc6cb187e67cb6d9cd5, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _SURFACE_TYPE_TRANSPARENT
@@ -43,6 +43,8 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats: []
-    m_Colors: []
+    m_Colors:
+    - _BaseColor: {r: 1, g: 0.48150295, b: 0.15746957, a: 1}
+    - _Color: {r: 1, g: 0.48150295, b: 0.15746954, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
