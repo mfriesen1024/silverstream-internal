@@ -58,5 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   treatParticlePrefab: {fileID: 5900991725455303110, guid: e0d477fe0fa412336a2009602787f9a7, type: 3}
-  purr: {fileID: 8300000, guid: fae52f96b591ef187b7bc508f5b3ac07, type: 3}
-  sadMeow: {fileID: 8300000, guid: 6223377b3aaa55de48754e01095724f6, type: 3}
+  jumpParticlePrefab: {fileID: 8864168474640419098, guid: cd04adba1198a5b64bec3b009a5886f2, type: 3}
+  sadMeowSFX: {fileID: 8300000, guid: 6223377b3aaa55de48754e01095724f6, type: 3}
+  purrSFX: {fileID: 8300000, guid: fae52f96b591ef187b7bc508f5b3ac07, type: 3}
+  jumpSFX: {fileID: 0}
