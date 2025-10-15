@@ -317,7 +317,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.125, y: 0.25}
+  m_Size: {x: 0.125, y: 0.125}
   m_EdgeRadius: 0
 --- !u!1 &6579759546244838197
 GameObject:
@@ -499,7 +499,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.125, y: 0.25}
+  m_Size: {x: 0.125, y: 0.125}
   m_EdgeRadius: 0
 --- !u!1 &8868800027445406706
 GameObject:
@@ -652,7 +652,7 @@ MonoBehaviour:
   passiveDeceleration: 5
   jumpAcceleration: 60
   wallJumpVAcceleration: 45
-  wallJumpHAcceleration: 35
+  wallJumpHAcceleration: 45
   postJumpGravityScale: 2
   jumpTicks: 9
   coyoteTicks: 5
