@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: a4ea91c35deb85222b03cf52c5bcbdf3
+guid: 3774b810adb7890a88fee21302c8ed4d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -557078281788634498
-    second: keyboard_space_0
+      213: 7869385870598531419
+    second: MovementIcons_0
+  - first:
+      213: 265050003258667679
+    second: MovementIcons_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: keyboard_space_0
+      name: MovementIcons_0
       rect:
         serializedVersion: 2
         x: 7
-        y: 17
+        y: 7
         width: 50
-        height: 30
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7a47e5114cd448f0800000000000000
-      internalID: -557078281788634498
+      spriteID: b59e08961cca53d60800000000000000
+      internalID: 7869385870598531419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovementIcons_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f2fbd295ada300800000000000000
+      internalID: 265050003258667679
       vertices: []
       indices: 
       edges: []
@@ -148,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      keyboard_space_0: -557078281788634498
+      MovementIcons_0: 7869385870598531419
+      MovementIcons_1: 265050003258667679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
