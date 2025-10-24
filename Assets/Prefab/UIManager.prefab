@@ -7141,7 +7141,7 @@ MonoBehaviour:
   pauseReturn: {fileID: 8500488259860714369}
   resultsContinue: {fileID: 2670450391144613397}
   resultsQuit: {fileID: 5032420745934599996}
-  resultsHowRustyFailed: {fileID: 0}
+  resultsHowRustyFailed: {fileID: 2601568007065522668}
   resultsDistanceSlider: {fileID: 7544826676254076889}
   distDescriptor: {fileID: 2286738407770060620}
   stamDescriptor: {fileID: 2035209559387601774}
