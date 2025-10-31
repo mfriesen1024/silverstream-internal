@@ -647,10 +647,13 @@ MonoBehaviour:
   horizontalSpeed: 5
   activeAcceleration: 15
   dashHorizontalAcceleration: 30
+  dashVerticalAcceleration: 40
   dashDownMultiplier: 1
   passiveDeceleration: 5
   jumpAcceleration: 60
   wallJumpVAcceleration: 45
+  wallJumpHAcceleration: 30
+  wallJumpHDirectionBoost: 1.5
   postJumpGravityScale: 2
   jumpTicks: 9
   coyoteTicks: 5
