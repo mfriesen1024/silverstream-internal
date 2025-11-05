@@ -3093,7 +3093,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4515746086683262770
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7628,10 +7628,10 @@ MonoBehaviour:
   overallTotalValue: {fileID: 5585657094969911554}
   upgradeContinue: {fileID: 6994402171308861922}
   upgradeBuy1: {fileID: 5881433831950253504}
-  upgradeBuy2: {fileID: 9019092924109595991}
-  upgradeBuy3: {fileID: 5080487453930147828}
-  upgradeBuy4: {fileID: 0}
-  upgradeBuy5: {fileID: 0}
+  upgradeBuy2: {fileID: 5080487453930147828}
+  upgradeBuy3: {fileID: 9019092924109595991}
+  upgradeBuy4: {fileID: 6451465971745322409}
+  upgradeBuy5: {fileID: 3560427090436177819}
   upgradeCurrencyCounter: {fileID: 8392308951512369473}
   winExit: {fileID: 9133549388850093843}
   creditsQuit: {fileID: 394152259883071850}
@@ -8129,7 +8129,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &4942144315896208157
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12999,7 +12999,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &3760542047126007164
 RectTransform:
   m_ObjectHideFlags: 0
