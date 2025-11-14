@@ -178,4 +178,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   menu: {fileID: 8300000, guid: 16191fe1cfd6a791ba095d8f05abcdda, type: 3}
-  gameplay: {fileID: 0}
+  gameplay: {fileID: 8300000, guid: 780e19934acd01fa49f6a057f910b68f, type: 3}
