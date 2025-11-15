@@ -68,6 +68,9 @@ MonoBehaviour:
   dashParticlePrefab: {fileID: 1123709910047598437, guid: 9db8a1b3cedefa129a12192a89bbce4a, type: 3}
   dashParticleOffset: {x: 0, y: -0.25}
   dashSFX: {fileID: 0}
+  secondLifeParticlePrefab: {fileID: 0}
+  secondlifeParticleOffset: {x: 0, y: 0, z: 0}
+  secondLifeSFX: {fileID: 8300000, guid: e696031b0099717e7a5cb34ea398572c, type: 3}
 --- !u!82 &6271946829163670469
 AudioSource:
   m_ObjectHideFlags: 0
