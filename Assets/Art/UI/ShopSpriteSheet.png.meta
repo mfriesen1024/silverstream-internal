@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 74d267b9f885b5cce869903117a29cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 29520018231624959
+    second: ShopSpriteSheet_0
+  - first:
+      213: -7594651421831473716
+    second: ShopSpriteSheet_1
+  - first:
+      213: 51936238475012470
+    second: ShopSpriteSheet_2
+  - first:
+      213: -6962687617428220455
+    second: ShopSpriteSheet_3
+  - first:
+      213: -5558852335399706162
+    second: ShopSpriteSheet_4
+  - first:
+      213: -596924559919371999
+    second: ShopSpriteSheet_5
+  - first:
+      213: -3875514132068426482
+    second: ShopSpriteSheet_6
+  - first:
+      213: 2895487413880114854
+    second: ShopSpriteSheet_7
+  - first:
+      213: -4732139194627500345
+    second: ShopSpriteSheet_8
+  - first:
+      213: -267624011176134598
+    second: ShopSpriteSheet_9
+  - first:
+      213: -5724388282842737033
+    second: ShopSpriteSheet_10
+  - first:
+      213: 6155219712180435128
+    second: ShopSpriteSheet_11
+  - first:
+      213: -6204401319559605625
+    second: ShopSpriteSheet_12
+  - first:
+      213: 6561533507440361735
+    second: ShopSpriteSheet_13
+  - first:
+      213: -5402238527962032177
+    second: ShopSpriteSheet_14
+  - first:
+      213: 7125227333615470276
+    second: ShopSpriteSheet_15
+  - first:
+      213: 6200244338119020292
+    second: ShopSpriteSheet_16
+  - first:
+      213: -4160864454806326562
+    second: ShopSpriteSheet_17
+  - first:
+      213: 7807938065581896213
+    second: ShopSpriteSheet_18
+  - first:
+      213: 2916111762619435668
+    second: ShopSpriteSheet_19
+  - first:
+      213: 4837807613758227968
+    second: ShopSpriteSheet_20
+  - first:
+      213: -6795595510127867440
+    second: ShopSpriteSheet_21
+  - first:
+      213: -7279299234763391403
+    second: ShopSpriteSheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff48578dc40e86000800000000000000
+      internalID: 29520018231624959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 733
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5d1d025c06a9690800000000000000
+      internalID: -7594651421831473716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 733
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679e545dbb388b000800000000000000
+      internalID: 51936238475012470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 733
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51e2970809f5f90800000000000000
+      internalID: -6962687617428220455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec166a5c04dfad2b0800000000000000
+      internalID: -5558852335399706162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 506
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129ac40864c47b7f0800000000000000
+      internalID: -596924559919371999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 506
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1e042e68673ac0800000000000000
+      internalID: -3875514132068426482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 506
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a653e345b216803dbc7fee9d9c2ee5a
+      internalID: 2895487413880114854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 227
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d831ecf54e82fcf2bd0f1918c0414dc
+      internalID: -4732139194627500345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c3d58518a21db7a8880d792030194bff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShopSpriteSheet_0: 29520018231624959
+      ShopSpriteSheet_1: -7594651421831473716
+      ShopSpriteSheet_10: 1551226185
+      ShopSpriteSheet_11: -1296356193
+      ShopSpriteSheet_2: 51936238475012470
+      ShopSpriteSheet_3: -6962687617428220455
+      ShopSpriteSheet_4: -5558852335399706162
+      ShopSpriteSheet_5: -596924559919371999
+      ShopSpriteSheet_6: -3875514132068426482
+      ShopSpriteSheet_7: 2895487413880114854
+      ShopSpriteSheet_8: -4732139194627500345
+      ShopSpriteSheet_9: 141728936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
