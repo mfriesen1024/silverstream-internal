@@ -653,7 +653,7 @@ MonoBehaviour:
   dashDownMultiplier: 1
   passiveDeceleration: 5
   jumpAcceleration: 60
-  wallJumpVAcceleration: 45
+  wallJumpVAcceleration: 50
   wallJumpHAcceleration: 30
   wallJumpHDirectionBoost: 1.5
   postJumpGravityScale: 2
