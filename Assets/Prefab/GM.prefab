@@ -67,6 +67,9 @@ MonoBehaviour:
   jumpParticlePrefab: {fileID: 8864168474640419098, guid: cd04adba1198a5b64bec3b009a5886f2, type: 3}
   jumpParticleOffset: {x: 0, y: -0.65}
   jumpSFX: {fileID: 8300000, guid: 20da199b196e890a18f6d2c3fd6cd5ef, type: 3}
+  landingParticlePrefab: {fileID: 0}
+  landingParticleOffset: {x: 0, y: 0, z: 0}
+  landingSFX: {fileID: 8300000, guid: 0baaf87f06d3ab6cf9315c53db40a152, type: 3}
   dashParticlePrefab: {fileID: 1123709910047598437, guid: 9db8a1b3cedefa129a12192a89bbce4a, type: 3}
   dashParticleOffset: {x: 0, y: -0.25}
   dashSFX: {fileID: 8300000, guid: 18206e13109191333b6b9acfd460840b, type: 3}
