@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 252bc253ac2228addb8075acb83f6f3c
+guid: 2fa665b0b381d31419e94bddc58e52ee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6813073394692553995
-    second: CreditsScreen_0
+      213: 251653288226480941
+    second: DashTutorial_Screen_NoText_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CreditsScreen_0
+      name: DashTutorial_Screen_NoText_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1920
-        height: 1079
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f28fa048d91371a0800000000000000
-      internalID: -6813073394692553995
+      spriteID: d236c43155d0e7300800000000000000
+      internalID: 251653288226480941
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      CreditsScreen_0: -6813073394692553995
+      DashTutorial_Screen_NoText_0: 251653288226480941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
