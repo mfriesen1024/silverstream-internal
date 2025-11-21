@@ -706,7 +706,7 @@ GameObject:
   - component: {fileID: 59166870459280704}
   - component: {fileID: 3715994969512740038}
   m_Layer: 5
-  m_Name: DashIntroHide
+  m_Name: SecondLifeIntroHide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1586,7 +1586,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c033ef7c724af3ed693a717e6f8f4bc5, type: 3}
+  m_Sprite: {fileID: 6155350223845919523, guid: 292a74f9e70bff7e79d4d6024fc9936c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2472,7 +2472,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c033ef7c724af3ed693a717e6f8f4bc5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aea70f78bfcad3ccb80ab6eb3bad2ba0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7772,8 +7772,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4942144315896208157}
-  - {fileID: 9142822809737109678}
   - {fileID: 7155790914363928754}
+  - {fileID: 9142822809737109678}
   - {fileID: 4132646123928468588}
   - {fileID: 1120823862701030232}
   - {fileID: 3760542047126007164}
@@ -7847,7 +7847,10 @@ MonoBehaviour:
   winExit: {fileID: 9133549388850093843}
   creditsQuit: {fileID: 394152259883071850}
   introQuit: {fileID: 1583481677783304813}
+  wallJumpIntroQuit: {fileID: 8793087297985632478}
   dashIntroQuit: {fileID: 4143780949822865046}
+  airJumpIntroQuit: {fileID: 2625264693714584240}
+  secondLifeIntroQuit: {fileID: 3715994969512740038}
   mainMenu: {fileID: 6923037573432036312}
   hud: {fileID: 7501434609776023111}
   settingsMenuMM: {fileID: 6486474197532884260}
@@ -7859,7 +7862,10 @@ MonoBehaviour:
   winScreen: {fileID: 4807078480976913632}
   creditsScreen: {fileID: 2632408355858993538}
   introScreen: {fileID: 4801500610829997329}
+  wallJumpIntroScreen: {fileID: 6214127533062255474}
   dashIntroScreen: {fileID: 7191892737967375703}
+  airJumpIntroScreen: {fileID: 4725707383181558400}
+  secondLifeIntroScreen: {fileID: 4417333963447503242}
 --- !u!1 &4417333963447503242
 GameObject:
   m_ObjectHideFlags: 0
@@ -10343,7 +10349,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c033ef7c724af3ed693a717e6f8f4bc5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: afc242aff7a5d3677bdd2dc7adb9531b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11483,7 +11489,7 @@ GameObject:
   - component: {fileID: 2979245119674578591}
   - component: {fileID: 839043731210949237}
   m_Layer: 5
-  m_Name: Tutorial3
+  m_Name: Tutorial2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12755,7 +12761,7 @@ GameObject:
   - component: {fileID: 4162806266624038558}
   - component: {fileID: 8793087297985632478}
   m_Layer: 5
-  m_Name: DashIntroHide
+  m_Name: WallJumpIntroHide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14198,7 +14204,7 @@ GameObject:
   - component: {fileID: 3968989514968483315}
   - component: {fileID: 8084344563137027078}
   m_Layer: 5
-  m_Name: Tutorial2
+  m_Name: Tutorial3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16246,7 +16252,7 @@ GameObject:
   - component: {fileID: 9082671708231476726}
   - component: {fileID: 2625264693714584240}
   m_Layer: 5
-  m_Name: DashIntroHide
+  m_Name: AirJumpIntroHide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
