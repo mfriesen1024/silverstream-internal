@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: cdeb372553670cabeb5d41b31f06c7ae
+guid: e74fa5c8c7bbc121cab3db0ce1355cda
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6010433942889255402
-    second: TitleScreenPlaceholder_0
+      213: 5460852348795911028
+    second: ControlsSpriteSheet_0
+  - first:
+      213: -1140497357165580879
+    second: ControlsSpriteSheet_1
+  - first:
+      213: -8317048399254030120
+    second: ControlsSpriteSheet_2
+  - first:
+      213: -392585151354401282
+    second: ControlsSpriteSheet_3
+  - first:
+      213: -3250746949310162301
+    second: ControlsSpriteSheet_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TitleScreenPlaceholder_0
+      name: ControlsSpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        y: 256
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ea2207c26a69ca0800000000000000
-      internalID: -6010433942889255402
+      spriteID: 47b76d44748d8cb40800000000000000
+      internalID: 5460852348795911028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdafde32b32c20f0800000000000000
+      internalID: -1140497357165580879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d87bb6eb88e39c80800000000000000
+      internalID: -8317048399254030120
       vertices: []
       indices: 
       edges: []
@@ -138,7 +194,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: cec6016de69ac17bcad248c882b1ab90
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +204,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TitleScreenPlaceholder_0: -6010433942889255402
+      ControlsSpriteSheet_0: 5460852348795911028
+      ControlsSpriteSheet_1: -1140497357165580879
+      ControlsSpriteSheet_2: -8317048399254030120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

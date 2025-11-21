@@ -59,15 +59,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6871e8a4ed38401a8dca5a961af48b5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clickSFX: {fileID: 8300000, guid: fae52f96b591ef187b7bc508f5b3ac07, type: 3}
   sadMeowSFX: {fileID: 8300000, guid: 6223377b3aaa55de48754e01095724f6, type: 3}
+  playerTiredSFX: {fileID: 0}
   treatParticlePrefab: {fileID: 5900991725455303110, guid: e0d477fe0fa412336a2009602787f9a7, type: 3}
   purrSFX: {fileID: 8300000, guid: fae52f96b591ef187b7bc508f5b3ac07, type: 3}
   jumpParticlePrefab: {fileID: 8864168474640419098, guid: cd04adba1198a5b64bec3b009a5886f2, type: 3}
   jumpParticleOffset: {x: 0, y: -0.65}
   jumpSFX: {fileID: 8300000, guid: 20da199b196e890a18f6d2c3fd6cd5ef, type: 3}
+  landingParticlePrefab: {fileID: 0}
+  landingParticleOffset: {x: 0, y: 0, z: 0}
+  landingSFX: {fileID: 8300000, guid: 0baaf87f06d3ab6cf9315c53db40a152, type: 3}
   dashParticlePrefab: {fileID: 1123709910047598437, guid: 9db8a1b3cedefa129a12192a89bbce4a, type: 3}
   dashParticleOffset: {x: 0, y: -0.25}
-  dashSFX: {fileID: 0}
+  dashSFX: {fileID: 8300000, guid: 18206e13109191333b6b9acfd460840b, type: 3}
+  secondLifeParticlePrefab: {fileID: 8232974976475079944, guid: 71169ba84cfef67a2a248445cbde81bf, type: 3}
+  secondlifeParticleOffset: {x: 0, y: 0, z: 0}
+  secondLifeSFX: {fileID: 8300000, guid: e696031b0099717e7a5cb34ea398572c, type: 3}
 --- !u!82 &6271946829163670469
 AudioSource:
   m_ObjectHideFlags: 0
