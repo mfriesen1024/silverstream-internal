@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 23c4fce06c366fa63b9a01b6a7ab948e
+guid: 0efe91d4577af4545828d1d08203a9d0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7220154346558318374
-    second: Win_Screen_0
+      213: 644229157737571179
+    second: CreditsScreen_NoText_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Win_Screen_0
+      name: CreditsScreen_NoText_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
+        y: 0
         width: 1920
-        height: 1078
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 627e91acf14233460800000000000000
-      internalID: 7220154346558318374
+      spriteID: b63a5e47103c0f800800000000000000
+      internalID: 644229157737571179
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Win_Screen_0: 7220154346558318374
+      CreditsScreen_NoText_0: 644229157737571179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
