@@ -1323,13 +1323,29 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2035209559387601774, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2035209559387601774, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
     - target: {fileID: 2091962774454332322, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2136960663373773678, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286738407770060620, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2286738407770060620, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 2369237391356047038, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1367,6 +1383,10 @@ PrefabInstance:
       propertyPath: spriteHover
       value: 
       objectReference: {fileID: -7920201597797747234, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 2678775793962311016, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
     - target: {fileID: 2692314104881016251, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1407,10 +1427,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3037153459601350739, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037153459601350739, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
     - target: {fileID: 3477992835863169076, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 1318753021241518125, guid: afeadb5f2c3ece2449a69c7ffd68e2c2, type: 3}
+    - target: {fileID: 3496594236227220644, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -22
+      objectReference: {fileID: 0}
     - target: {fileID: 3715994969512740038, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: spriteHover
       value: 
@@ -1467,10 +1499,22 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 2457030238116273379, guid: e5a21a86b4c07074488a80950349fac3, type: 3}
+    - target: {fileID: 5224367829495793254, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 5224367829495793254, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
     - target: {fileID: 5367622813189404735, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: spriteHover
       value: 
       objectReference: {fileID: 788876270, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 5383669551534547811, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 13
+      objectReference: {fileID: 0}
     - target: {fileID: 5415120763531208496, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Color.a
       value: 0
@@ -1533,7 +1577,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6923037573432036312, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6942652339900985341, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 6994402171308861922, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: spriteHover
