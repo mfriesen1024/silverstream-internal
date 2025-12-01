@@ -831,6 +831,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 394152259883071850, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 788876270, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 443443900523021598, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -1247590430, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 482255317126992095, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 1065910185, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 488779270199299712, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -3274239917416431365, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 582188716205178352, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 40
@@ -847,6 +863,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1097738247112172684, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 6626107364307247444, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 1274326418279862333, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 7514338990341422671, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 1434089974808661620, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 683403993, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
+    - target: {fileID: 1443248735864474049, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 1799696629, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 1583481677783304813, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -133160836, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
     - target: {fileID: 1770168011923521453, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -887,6 +923,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 2.0000036
       objectReference: {fileID: 0}
+    - target: {fileID: 2625264693714584240, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -133160836, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
+    - target: {fileID: 2632408355858993538, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670450391144613397, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -7920201597797747234, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 2692314104881016251, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -927,10 +975,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3715994969512740038, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -133160836, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
     - target: {fileID: 3817569123237203730, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4143780949822865046, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -133160836, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
     - target: {fileID: 4401306095738524435, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Name
       value: UIManager
@@ -955,10 +1011,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4858270741658301758, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 7514338990341422671, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 4900456727495744307, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 2457030238116273379, guid: e5a21a86b4c07074488a80950349fac3, type: 3}
+    - target: {fileID: 5367622813189404735, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 788876270, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 5415120763531208496, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_Color.a
       value: 0
@@ -983,6 +1047,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6664081536540168605, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 683403993, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
     - target: {fileID: 6674119688755802850, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_SizeDelta.x
       value: 256
@@ -1019,6 +1087,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6994402171308861922, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -7920201597797747234, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 7191892737967375703, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1027,10 +1099,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519170849145346416, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 788876270, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 7594904930908600163, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7622010872280346566, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 788876270, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     - target: {fileID: 7767764386465824737, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1051,6 +1131,14 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8500488259860714369, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 6626107364307247444, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
+    - target: {fileID: 8793087297985632478, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: -133160836, guid: 74d267b9f885b5cce869903117a29cca, type: 3}
     - target: {fileID: 9083211667123479307, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
       propertyPath: m_SizeDelta.x
       value: 256
@@ -1067,6 +1155,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.75
       objectReference: {fileID: 0}
+    - target: {fileID: 9133549388850093843, guid: f8e41c49fae86e0179b920f6ed8d8366, type: 3}
+      propertyPath: spriteHover
+      value: 
+      objectReference: {fileID: 6626107364307247444, guid: d15da296993bed4dea1330fc2e065de2, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
